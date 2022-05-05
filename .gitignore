@@ -132,3 +132,6 @@ dmypy.json
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
+service_account.json
+test.py
+hidden.py
